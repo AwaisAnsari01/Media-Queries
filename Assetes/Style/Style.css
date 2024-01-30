@@ -87,6 +87,7 @@ ul{
     footer{
         justify-content: space-evenly;
         gap: 10px;
+        margin-left: 20px;
 
     }
 }
